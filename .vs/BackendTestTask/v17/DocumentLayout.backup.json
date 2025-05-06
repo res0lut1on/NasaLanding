@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NasaMeteoriteLanding\\TreeTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|solutionrelative:backendtesttask.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94D25611-CAD4-4C7F-9EC0-EB0DC9E3900C}|Solution Items{94D25611-CAD4-4C7F-9EC0-EB0DC9E3900C}|D:\\NasaMeteoriteLanding\\TreeTask\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{94D25611-CAD4-4C7F-9EC0-EB0DC9E3900C}|Solution Items{94D25611-CAD4-4C7F-9EC0-EB0DC9E3900C}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|solutionrelative:backendtesttask.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.services\\models\\meteorite\\meteoritesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|solutionrelative:backendtesttask.services\\models\\meteorite\\meteoritesearchmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.api\\controllers\\meteoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E90858-25D5-429B-92BE-121161A4101A}|BackendTestTask.API\\BackendTestTask.API.csproj|solutionrelative:backendtesttask.api\\controllers\\meteoritecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.services\\services\\generic\\customgenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|solutionrelative:backendtesttask.services\\services\\generic\\customgenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.services\\services\\implementations\\meteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|solutionrelative:backendtesttask.services\\services\\implementations\\meteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.services\\services\\interfaces\\imeteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|solutionrelative:backendtesttask.services\\services\\interfaces\\imeteoriteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|d:\\nasameteoritelanding\\treetask\\backendtesttask.services\\services\\implementations\\meteoriteimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0FBE666-78BA-42EE-A964-32210F3D9411}|BackendTestTask.Services\\BackendTestTask.Services.csproj|solutionrelative:backendtesttask.services\\services\\implementations\\meteoriteimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BackendTestTask.API\\appsettings.json",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\appsettings.json",
+              "RelativeToolTip": "BackendTestTask.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-06T06:46:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-05-05T19:35:35.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeteoriteSearchModel.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Models\\Meteorite\\MeteoriteSearchModel.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.Services\\Models\\Meteorite\\MeteoriteSearchModel.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Models\\Meteorite\\MeteoriteSearchModel.cs",
+              "RelativeToolTip": "BackendTestTask.Services\\Models\\Meteorite\\MeteoriteSearchModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T15:33:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMeteoriteService.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Interfaces\\IMeteoriteService.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.Services\\Services\\Interfaces\\IMeteoriteService.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Interfaces\\IMeteoriteService.cs",
+              "RelativeToolTip": "BackendTestTask.Services\\Services\\Interfaces\\IMeteoriteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:58:49.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MeteoriteService.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Implementations\\MeteoriteService.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.Services\\Services\\Implementations\\MeteoriteService.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Implementations\\MeteoriteService.cs",
+              "RelativeToolTip": "BackendTestTask.Services\\Services\\Implementations\\MeteoriteService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T14:58:22.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomGenericService.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Generic\\CustomGenericService.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.Services\\Services\\Generic\\CustomGenericService.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Generic\\CustomGenericService.cs",
+              "RelativeToolTip": "BackendTestTask.Services\\Services\\Generic\\CustomGenericService.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:58:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeteoriteImporter.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Implementations\\MeteoriteImporter.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.Services\\Services\\Implementations\\MeteoriteImporter.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.Services\\Services\\Implementations\\MeteoriteImporter.cs",
+              "RelativeToolTip": "BackendTestTask.Services\\Services\\Implementations\\MeteoriteImporter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:18:25.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\Program.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.API\\Program.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\Program.cs",
+              "RelativeToolTip": "BackendTestTask.API\\Program.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAjwHMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:16:05.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MeteoriteController.cs",
+              "DocumentMoniker": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\Controllers\\MeteoriteController.cs",
+              "RelativeDocumentMoniker": "BackendTestTask.API\\Controllers\\MeteoriteController.cs",
+              "ToolTip": "D:\\NasaMeteoriteLanding\\TreeTask\\BackendTestTask.API\\Controllers\\MeteoriteController.cs",
+              "RelativeToolTip": "BackendTestTask.API\\Controllers\\MeteoriteController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:16:04.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

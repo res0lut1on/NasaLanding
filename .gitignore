@@ -1,0 +1,22 @@
+# Node
+node_modules
+dist
+
+# VS/JetBrains
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Build artifacts
+bin/
+obj/
+*.log
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Mappings\**" />
+    <Compile Remove="Models\Tree\**" />
+    <EmbeddedResource Remove="Mappings\**" />
+    <EmbeddedResource Remove="Models\Tree\**" />
+    <None Remove="Mappings\**" />
+    <None Remove="Models\Tree\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EFCore.BulkExtensions" Version="6.0.9" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendTestTask.Common\BackendTestTask.Common.csproj" />
+    <ProjectReference Include="..\BackendTestTask.Database\BackendTestTask.Database.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Models\Meteorite\ResponseMeteorite.cs" />
+  </ItemGroup>
+
+</Project>
