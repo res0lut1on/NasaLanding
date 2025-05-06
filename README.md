@@ -48,9 +48,7 @@ Hangfire Dashboard: http://localhost:5000/hangfire
   Component-level caching — to avoid refetching unchanged data.
   
   Pagination support — instead of infinite scroll (optional).
-  
-  Dark/light theme toggle — for better UX.
-  
+    
   Skeleton loading UI — for smoother perception of loading states.
   
   Form validation — for more robust filters.
